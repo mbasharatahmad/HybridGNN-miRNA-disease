@@ -183,3 +183,5 @@ models_cv_cold_mirna/          # For mode 2
 ├── ...
 └── cross_validation_summary.json
 ```
+## References
+- For details, see the paper: *HybridGNN: A Graph Neural Network Approach for Human miRNA–Disease Association Prediction*.
